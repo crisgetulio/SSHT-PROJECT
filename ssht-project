@@ -177,7 +177,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM APP TESTE",
+      "Name": "💙TIM APP TESTE tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://apptest.c6bank.app/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "apptest.c6bank.app",
@@ -187,7 +187,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵NOVA TIM ",
+      "Name": "🔵NOVA TIM tls ",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "songbird.cardinalcommerce.com",
@@ -197,7 +197,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙TIM NOVA GIT",
+      "Name": "💙TIM NOVA GIT tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL  wss://gitlab.com/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gitlab.com",
@@ -207,7 +207,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙TIM C6",
+      "Name": "💙TIM C6 tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://api.sandbox.c6bank.com.br/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "api.sandbox.c6bank.com.br",
@@ -222,12 +222,12 @@
       "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "proxybr.sshbrasil.net",
+      "ProxyIP": "45.182.161.107",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM PLUS 5G",
+      "Name": "💙TIM PLUS 5G tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://api.onesignal.com/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "api.onesignal.com",
@@ -237,7 +237,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙TIM SLOW",
+      "Name": "💙TIM SLOW tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "workplaceservices.surveymonkey.com",
@@ -247,7 +247,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙TIM SALDO EXPIRADO",
+      "Name": "💙TIM SALDO EXPIRADO tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss://support.deezer.com/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
@@ -257,7 +257,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙TIM SLOW",
+      "Name": "💙TIM SLOW tls",
       "FLAG": "tim",
       "Payload": "BASELINE-CONTROL wss:///smainfo.surveymonkey.com/ HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "smainfo.surveymonkey.com",
