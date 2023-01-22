@@ -1,5 +1,5 @@
 {
-  "Version": "60.00.00",
+  "Version": "60.01.00",
   "ReleaseNotes": "em construção",
   "UrlUpdate": "https://raw.githubusercontent.com/crisgetulio/SSHT-PROJECT/main/ssht-project",
   "Sms": "",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor BR",
+      "Name": "Server-Sul BR-SC",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "45.182.161.107",
