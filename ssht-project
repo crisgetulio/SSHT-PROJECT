@@ -39,7 +39,7 @@
     {
       "Name": "💜𝗩𝗜𝗩𝗢 TODOS DDD 01",
       "FLAG": "VIVO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2fmyr4lem0keo.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Connection: Upgrade[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.113.30",
@@ -49,7 +49,7 @@
     {
       "Name": "💜𝗩𝗜𝗩𝗢 TODOS DDD 02",
       "FLAG": "VIVO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2fmyr4lem0keo.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 45.182.161.107[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "108.139.113.36",
       "TlsIP": "108.139.113.36",
       "ProxyIP": "108.139.113.36",
