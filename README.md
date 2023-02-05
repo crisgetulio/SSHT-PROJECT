@@ -2,7 +2,7 @@
 {
   "Version": "1.0.0",
   "ReleaseNotes": "",
-  "UrlUpdate": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/crisgetulio/SSHT-PROJECT/main/README.md",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
